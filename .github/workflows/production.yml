@@ -52,3 +52,4 @@ jobs:
           tags: rl329/devops_demo:latest
 
           # Add other relevant build parameters here
+          #testing
